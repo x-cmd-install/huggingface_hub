@@ -1,0 +1,59 @@
+about:
+  description: The official CLI and Python client for the Hugging Face Hub.
+  license: Apache-2.0
+  homepage: https://huggingface.co/docs/huggingface_hub
+  head: f0a5c6d
+  archived: false
+  latestVersion: v1.29.0
+  collectedAt: 2026-09-02T04:55:23Z
+timeline:
+  created: 2020-12-22
+  lastCommit: 2026-09-01
+  lastRelease: 2026-08-27
+popularity:
+  star: 3865
+  watcher: 74
+  fork: 1182
+  release: 189
+  contributor: 443
+  pullRequest: 516
+  issue: 1650
+language:
+  Python: 4729266
+  Shell: 18373
+  PowerShell: 16433
+  Makefile: 967
+totalLine: 4765039
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 5
+    mergedPR: 46
+    openPR: 13
+    closedIssue: 37
+    openIssue: 13
+    commit: 51
+  last90d:
+    since: 2026-06-04
+    release: 15
+    mergedPR: 215
+    openPR: 27
+    closedIssue: 103
+    openIssue: 21
+    commit: 221
+  last180d:
+    since: 2026-03-06
+    release: 35
+    mergedPR: 467
+    openPR: 31
+    closedIssue: 177
+    openIssue: 37
+    commit: 478
+  last360d:
+    since: 2025-09-07
+    release: 65
+    mergedPR: 781
+    openPR: 38
+    closedIssue: 327
+    openIssue: 57
+    commit: 761
