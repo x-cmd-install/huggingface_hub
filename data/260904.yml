@@ -7,7 +7,7 @@ about:
   head: deb9777
   archived: false
   latestVersion: v1.30.0
-  collectedAt: 2026-09-04T19:52:28Z
+  collectedAt: 2026-09-04T20:48:02Z
 timeline:
   created: 2020-12-22
   lastCommit: 2026-09-04
@@ -83,6 +83,59 @@ total:
   openIssue: 124
   commit: 2703
 ---
+path: /home/runner/.x-repo/github.com/huggingface/huggingface_hub
+collectedAt: 2026-09-04T20:48:05Z
+loc:
+  Python:
+    code: 96283
+    comments: 6573
+    blanks: 14098
+    files: 286
+  Yaml:
+    code: 3833
+    comments: 7
+    blanks: 6
+    files: 21
+  Sh:
+    code: 476
+    comments: 37
+    blanks: 70
+    files: 1
+  PowerShell:
+    code: 364
+    comments: 55
+    blanks: 78
+    files: 1
+  Toml:
+    code: 71
+    comments: 16
+    blanks: 10
+    files: 1
+  Makefile:
+    code: 28
+    comments: 0
+    blanks: 12
+    files: 1
+  Autoconf:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 19822
+    blanks: 9570
+    files: 160
+  Text:
+    code: 0
+    comments: 0
+    blanks: 0
+    files: 1
+total:
+  code: 104425
+  comments: 27164
+  blanks: 24415
+  files: 473
 ---
 date: "2026-08-24"
 repo:
