@@ -2,96 +2,96 @@ about:
   description: "The official CLI and Python client for the Hugging Face Hub."
   license: Apache-2.0
   homepage: https://huggingface.co/docs/huggingface_hub
-  head: b9c14d9
+  head: f148666
   archived: false
   latestVersion: "v1.30.0"
   latestRelease: "v1.30.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:25:33Z
+  collectedAt: 2026-09-09T18:17:27Z
 timeline:
   created: 2020-12-22
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-09-03
   lastRelease: 2026-09-03
   lastPrerelease: 
 popularity:
   star: 3879
-  watcher: 74
-  fork: 1193
+  watcher: 75
+  fork: 1194
   release: 190
-  contributor: 395
-  pullRequest: 3039
-  issue: 1657
+  contributor: 396
+  pullRequest: 3045
+  issue: 1658
 language:
-  Python: 4738068
+  Python: 4748096
   Shell: 18373
   PowerShell: 16433
   Makefile: 967
-totalBytes: 4773841
+totalBytes: 4783869
 recent:
   last30d:
     since: 2026-08-10
     release: 5
-    mergedPR: 55
-    openPR: 27
+    mergedPR: 60
+    openPR: 24
     closedIssue: 42
-    openIssue: 8
-    commit: 55
+    openIssue: 9
+    commit: 60
   last60d:
     since: 2026-07-11
     release: 9
-    mergedPR: 114
-    openPR: 36
+    mergedPR: 119
+    openPR: 33
     closedIssue: 67
-    openIssue: 13
-    commit: 117
+    openIssue: 14
+    commit: 122
   last90d:
     since: 2026-06-11
     release: 15
-    mergedPR: 208
-    openPR: 41
+    mergedPR: 213
+    openPR: 38
     closedIssue: 109
-    openIssue: 15
-    commit: 216
+    openIssue: 16
+    commit: 221
   last180d:
     since: 2026-03-13
     release: 34
-    mergedPR: 462
-    openPR: 44
+    mergedPR: 467
+    openPR: 41
     closedIssue: 186
-    openIssue: 31
-    commit: 473
+    openIssue: 32
+    commit: 478
   last360d:
     since: 2025-09-14
     release: 66
-    mergedPR: 784
-    openPR: 52
-    closedIssue: 331
+    mergedPR: 789
+    openPR: 49
+    closedIssue: 332
     openIssue: 52
-    commit: 772
+    commit: 777
   last720d:
     since: 2024-09-19
     release: 100
-    mergedPR: 1166
-    openPR: 57
-    closedIssue: 657
+    mergedPR: 1171
+    openPR: 54
+    closedIssue: 658
     openIssue: 74
-    commit: 1153
+    commit: 1158
 total:
   release: 190
-  mergedPR: 2496
-  openPR: 57
-  closedIssue: 1538
+  mergedPR: 2501
+  openPR: 54
+  closedIssue: 1539
   openIssue: 119
-  commit: 2714
+  commit: 2719
 ---
 path: /home/runner/.x-repo/github.com/huggingface/huggingface_hub
-collectedAt: 2026-09-09T04:25:41Z
+collectedAt: 2026-09-09T18:17:35Z
 loc:
   Python:
-    code: 96448
-    comments: 6585
-    blanks: 14125
+    code: 96653
+    comments: 6599
+    blanks: 14146
     files: 286
   Yaml:
     code: 3833
@@ -125,8 +125,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 19834
-    blanks: 9574
+    comments: 19851
+    blanks: 9583
     files: 160
   Text:
     code: 0
@@ -134,9 +134,9 @@ loc:
     blanks: 0
     files: 1
 total:
-  code: 104592
-  comments: 27190
-  blanks: 24448
+  code: 104811
+  comments: 27223
+  blanks: 24479
   files: 473
 ---
 date: "2026-09-07"
