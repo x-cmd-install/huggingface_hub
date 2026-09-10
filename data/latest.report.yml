@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.31.0"
   latestRelease: "v1.31.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T15:52:41Z
+  collectedAt: 2026-09-10T21:22:22Z
 timeline:
   created: 2020-12-22
   lastCommit: 2026-09-10
@@ -20,8 +20,8 @@ popularity:
   fork: 1196
   release: 191
   contributor: 397
-  pullRequest: 3058
-  issue: 1664
+  pullRequest: 3060
+  issue: 1665
 language:
   Python: 4799378
   Shell: 18373
@@ -33,60 +33,60 @@ recent:
     since: 2026-08-11
     release: 6
     mergedPR: 67
-    openPR: 26
+    openPR: 28
     closedIssue: 46
-    openIssue: 11
-    commit: 0
+    openIssue: 12
+    commit: 68
   last60d:
     since: 2026-07-12
     release: 10
     mergedPR: 127
-    openPR: 34
+    openPR: 36
     closedIssue: 70
-    openIssue: 16
-    commit: 0
+    openIssue: 17
+    commit: 130
   last90d:
     since: 2026-06-12
     release: 15
     mergedPR: 216
-    openPR: 39
+    openPR: 41
     closedIssue: 111
-    openIssue: 17
-    commit: 0
+    openIssue: 18
+    commit: 229
   last180d:
     since: 2026-03-14
     release: 35
     mergedPR: 475
-    openPR: 42
+    openPR: 44
     closedIssue: 189
-    openIssue: 34
-    commit: 0
+    openIssue: 35
+    commit: 486
   last360d:
     since: 2025-09-15
     release: 67
     mergedPR: 796
-    openPR: 50
+    openPR: 52
     closedIssue: 334
-    openIssue: 54
-    commit: 0
+    openIssue: 55
+    commit: 785
   last720d:
     since: 2024-09-20
     release: 100
     mergedPR: 1177
-    openPR: 55
+    openPR: 57
     closedIssue: 661
-    openIssue: 76
+    openIssue: 77
     commit: 1166
 total:
   release: 191
   mergedPR: 2509
-  openPR: 55
+  openPR: 57
   closedIssue: 1543
-  openIssue: 121
+  openIssue: 122
   commit: 2727
 ---
 path: /home/runner/.x-repo/github.com/huggingface/huggingface_hub
-collectedAt: 2026-09-10T15:52:52Z
+collectedAt: 2026-09-10T21:22:33Z
 loc:
   Python:
     code: 97704

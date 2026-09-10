@@ -1,0 +1,197 @@
+- repo: debian_14
+  subrepo: forky/main
+  srcname: huggingface-hub
+  binnames:
+    - python3-huggingface-hub
+  visiblename: huggingface-hub
+  version: 1.23.0
+  origversion: 1.23.0-1
+  status: outdated
+  maintainers:
+    - debian-ai@lists.debian.org
+    - kouhei.sendai@gmail.com
+    - lumin@debian.org
+  categories:
+    - misc
+- repo: debian_unstable
+  subrepo: sid/main
+  srcname: huggingface-hub
+  binnames:
+    - python3-huggingface-hub
+  visiblename: huggingface-hub
+  version: 1.23.0
+  origversion: 1.23.0-1
+  status: outdated
+  maintainers:
+    - debian-ai@lists.debian.org
+    - kouhei.sendai@gmail.com
+    - lumin@debian.org
+  categories:
+    - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: huggingface-hub
+  binnames:
+    - python3-huggingface-hub
+  visiblename: huggingface-hub
+  version: 1.23.0
+  origversion: 1.23.0-1
+  status: outdated
+  maintainers:
+    - debian-ai@lists.debian.org
+    - kouhei.sendai@gmail.com
+    - lumin@debian.org
+  categories:
+    - misc
+- repo: gentoo
+  srcname: sci-ml/huggingface_hub
+  visiblename: sci-ml/huggingface_hub
+  version: 1.26.0
+  origversion: 1.26.0-r1
+  status: outdated
+  summary: a client library to interact with the Hugging Face Hub
+  maintainers:
+    - tupone@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - sci-ml
+- repo: gentoo
+  srcname: sci-ml/huggingface_hub
+  visiblename: sci-ml/huggingface_hub
+  version: 1.3.7
+  origversion: 1.3.7-r1
+  status: legacy
+  summary: a client library to interact with the Hugging Face Hub
+  maintainers:
+    - tupone@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - sci-ml
+- repo: kali_rolling
+  subrepo: main
+  srcname: huggingface-hub
+  binnames:
+    - python3-huggingface-hub
+  visiblename: huggingface-hub
+  version: 1.23.0
+  origversion: 1.23.0-1
+  status: outdated
+  maintainers:
+    - debian-ai@lists.debian.org
+    - kouhei.sendai@gmail.com
+    - lumin@debian.org
+  categories:
+    - misc
+- repo: liguros_stable
+  srcname: sci-ml/huggingface_hub
+  visiblename: sci-ml/huggingface_hub
+  version: 0.30.2
+  origversion: null
+  status: outdated
+  summary: a client library to interact with the Hugging Face Hub
+  maintainers:
+    - tupone@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - sci-ml
+- repo: liguros_develop
+  srcname: sci-ml/huggingface_hub
+  visiblename: sci-ml/huggingface_hub
+  version: 1.3.7
+  origversion: null
+  status: outdated
+  summary: a client library to interact with the Hugging Face Hub
+  maintainers:
+    - tupone@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - sci-ml
+- repo: liguros_develop
+  srcname: sci-ml/huggingface_hub
+  visiblename: sci-ml/huggingface_hub
+  version: 0.36.2
+  origversion: 0.36.2-r1
+  status: legacy
+  summary: a client library to interact with the Hugging Face Hub
+  maintainers:
+    - tupone@gentoo.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - sci-ml
+- repo: raspbian_testing
+  subrepo: main
+  srcname: huggingface-hub
+  binnames:
+    - python3-huggingface-hub
+  visiblename: huggingface-hub
+  version: 1.23.0
+  origversion: 1.23.0-1
+  status: outdated
+  maintainers:
+    - debian-ai@lists.debian.org
+    - kouhei.sendai@gmail.com
+    - lumin@debian.org
+  categories:
+    - misc
+- repo: t2
+  srcname: huggingface_hub
+  visiblename: huggingface_hub
+  version: 1.27.0
+  origversion: null
+  status: newest
+  summary: The official Python client for the Huggingface Hub
+  maintainers:
+    - rene@exactco.de
+  licenses:
+    - APL
+  categories:
+    - extra/development
+- repo: ubuntu_25_10
+  subrepo: questing/universe
+  srcname: huggingface-hub
+  binnames:
+    - python3-huggingface-hub
+  visiblename: huggingface-hub
+  version: 0.31.1
+  origversion: 0.31.1-1
+  status: outdated
+  maintainers:
+    - debian-ai@lists.debian.org
+    - kouhei.sendai@gmail.com
+  categories:
+    - universe/misc
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: huggingface-hub
+  binnames:
+    - python3-huggingface-hub
+  visiblename: huggingface-hub
+  version: 1.2.2
+  origversion: 1.2.2-2
+  status: outdated
+  maintainers:
+    - debian-ai@lists.debian.org
+    - kouhei.sendai@gmail.com
+    - lumin@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_26_10
+  subrepo: stonking/universe
+  srcname: huggingface-hub
+  binnames:
+    - python3-huggingface-hub
+  visiblename: huggingface-hub
+  version: 1.23.0
+  origversion: 1.23.0-1
+  status: outdated
+  maintainers:
+    - debian-ai@lists.debian.org
+    - kouhei.sendai@gmail.com
+    - lumin@debian.org
+  categories:
+    - universe/misc
