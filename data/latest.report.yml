@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.31.0"
   latestRelease: "v1.31.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:22:22Z
+  collectedAt: 2026-09-10T22:32:00Z
 timeline:
   created: 2020-12-22
   lastCommit: 2026-09-10
@@ -86,7 +86,7 @@ total:
   commit: 2727
 ---
 path: /home/runner/.x-repo/github.com/huggingface/huggingface_hub
-collectedAt: 2026-09-10T21:22:33Z
+collectedAt: 2026-09-10T22:32:06Z
 loc:
   Python:
     code: 97704
