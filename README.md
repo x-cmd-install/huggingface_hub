@@ -20,33 +20,32 @@ x install huggingface_hub
 
 ## Release
 
-- **Latest**: `v1.30.0` (2026-09-03)
-- **Last commit**: 2026-09-09
-- **Published**: 2026-09-03T09:42:41Z
+- **Latest**: `v1.31.0` (2026-09-10)
+- **Last commit**: 2026-09-10
 
 ## Popularity
 
-- **Stars**: 3,880 · **Forks**: 1,194 · **Open issues**: 1,659 · **Contributors**: 396
+- **Stars**: 3,881 · **Forks**: 1,196 · **Open issues**: 1,664 · **Contributors**: 397
 
 ## Totals (cumulative)
 
-- **Releases**: 190 · **Merged PRs**: 2501 · **Open PRs**: 54 · **Closed issues**: 1539 · **Open issues**: 120 · **Commits**: 2719
+- **Releases**: 191 · **Merged PRs**: 2509 · **Open PRs**: 55 · **Closed issues**: 1543 · **Open issues**: 121 · **Commits**: 2727
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 5 | 60 | 24 | 42 | 10 | 60 |
-| 90d | 2026-06-12 | 14 | 208 | 38 | 107 | 16 | 221 |
-| 360d | 2025-09-15 | 66 | 788 | 49 | 330 | 53 | 777 |
+| 30d | 2026-08-11 | 6 | 67 | 26 | 46 | 11 | 0 |
+| 90d | 2026-06-12 | 15 | 216 | 39 | 111 | 17 | 0 |
+| 360d | 2025-09-15 | 67 | 796 | 50 | 334 | 54 | 0 |
 
 ## Code size
 
-Total: **101,428** lines of code across **310** files in the top 5 languages.
+Total: **102,479** lines of code across **311** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 96,653 | 6,599 | 14,146 | 286 |
+| Python | 97,704 | 6,636 | 14,249 | 287 |
 | Yaml | 3,833 | 7 | 6 | 21 |
 | Sh | 476 | 37 | 70 | 1 |
 | PowerShell | 364 | 55 | 78 | 1 |
@@ -67,8 +66,8 @@ Lowest-scoring checks:
 Install metadata for huggingface_hub lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `huggingface_hub` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/huggingface_hub.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/huggingface_hub.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:23:58Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:52:57Z._
