@@ -47,32 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,888 · **Forks**: 1,201 · **Open issues**: 1,668 · **Contributors**: 397
+- **Stars**: 3,891 · **Forks**: 1,205 · **Open issues**: 1,671 · **Contributors**: 397
 
 ## Totals (cumulative)
 
-- **Releases**: 191 · **Merged PRs**: 2517 · **Open PRs**: 57 · **Closed issues**: 1547 · **Open issues**: 121 · **Commits**: 2735
+- **Releases**: 191 · **Merged PRs**: 2517 · **Open PRs**: 64 · **Closed issues**: 1547 · **Open issues**: 124 · **Commits**: 2735
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 6 | 67 | 25 | 44 | 10 | 76 |
-| last60d | 2026-07-15 | 10 | 129 | 36 | 74 | 15 | 138 |
-| 90d | 2026-06-15 | 15 | 221 | 40 | 114 | 17 | 237 |
-| last180d | 2026-03-17 | 35 | 478 | 44 | 191 | 34 | 494 |
-| 360d | 2025-09-18 | 64 | 801 | 52 | 333 | 54 | 793 |
-| last720d | 2024-09-23 | 100 | 1185 | 57 | 663 | 76 | 1173 |
-
-## Distribution status
-
-Reported by **14** distros on [repology.org](https://repology.org/project/huggingface_hub). **1** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `1.23.0` | ⚠️ outdated |
-| Debian 14 | `1.23.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `1.2.2` | ⚠️ outdated |
+| 30d | 2026-08-15 | 6 | 66 | 32 | 43 | 13 | 61 |
+| last60d | 2026-07-16 | 10 | 129 | 42 | 71 | 18 | 125 |
+| 90d | 2026-06-16 | 15 | 219 | 47 | 112 | 20 | 212 |
+| last180d | 2026-03-18 | 35 | 476 | 51 | 190 | 37 | 485 |
+| 360d | 2025-09-19 | 64 | 797 | 59 | 332 | 57 | 787 |
+| last720d | 2024-09-24 | 100 | 1184 | 64 | 662 | 79 | 1173 |
 
 ## Improve this data
 
@@ -83,4 +73,4 @@ Install metadata for huggingface_hub lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:34:46Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:40:11Z._
