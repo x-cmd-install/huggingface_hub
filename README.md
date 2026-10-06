@@ -26,7 +26,7 @@ Total: **106,372** lines of code across **308** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7 / 10**
+Overall score: **7.1 / 10**
 
 Lowest-scoring checks:
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.1.1` (2026-10-01)
-- **Last commit**: 2026-10-02
+- **Last commit**: 2026-10-05
 
 ## Popularity
 
-- **Stars**: 3,958 · **Forks**: 1,247 · **Open issues**: 1,711 · **Contributors**: 412
+- **Stars**: 3,958 · **Forks**: 1,248 · **Open issues**: 1,713 · **Contributors**: 414
 
 ## Totals (cumulative)
 
-- **Releases**: 196 · **Merged PRs**: 2622 · **Open PRs**: 59 · **Closed issues**: 1595 · **Open issues**: 116 · **Commits**: 2833
+- **Releases**: 196 · **Merged PRs**: 2625 · **Open PRs**: 58 · **Closed issues**: 1598 · **Open issues**: 115 · **Commits**: 2836
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 6 | 128 | 28 | 48 | 8 | 106 |
-| last60d | 2026-08-06 | 12 | 181 | 36 | 92 | 13 | 175 |
-| 90d | 2026-07-07 | 16 | 248 | 44 | 125 | 15 | 238 |
-| last180d | 2026-04-08 | 36 | 513 | 47 | 211 | 23 | 504 |
-| 360d | 2025-10-10 | 66 | 870 | 55 | 362 | 48 | 872 |
-| last720d | 2024-10-15 | 100 | 1271 | 59 | 686 | 73 | 1252 |
+| 30d | 2026-09-06 | 6 | 131 | 27 | 50 | 7 | 109 |
+| last60d | 2026-08-07 | 12 | 181 | 35 | 95 | 12 | 178 |
+| 90d | 2026-07-08 | 16 | 247 | 43 | 126 | 14 | 241 |
+| last180d | 2026-04-09 | 35 | 509 | 45 | 213 | 22 | 507 |
+| 360d | 2025-10-11 | 66 | 873 | 54 | 364 | 47 | 875 |
+| last720d | 2024-10-16 | 100 | 1272 | 58 | 686 | 72 | 1252 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for huggingface_hub lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T05:21:32Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T06:05:13Z._
