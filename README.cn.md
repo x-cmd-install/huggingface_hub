@@ -26,13 +26,13 @@ x install huggingface_hub
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.5 / 10**
+总评分: **6.6 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 9/27 approved changesets -- score normalized to 3
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (3/10) — Found 8/25 approved changesets -- score normalized to 3
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -47,22 +47,22 @@ x install huggingface_hub
 
 ## 流行度
 
-- **Star**: 4,005 · **Fork**: 1,306 · **开放 issue**: 1,767 · **贡献者**: 421
+- **Star**: 4,009 · **Fork**: 1,306 · **开放 issue**: 1,768 · **贡献者**: 421
 
 ## 累计统计
 
-- **发布数**: 198 · **已合并 PR**: 2680 · **开放 PR**: 70 · **已关闭 issue**: 1642 · **开放 issue**: 125 · **提交数**: 2891
+- **发布数**: 198 · **已合并 PR**: 2680 · **开放 PR**: 71 · **已关闭 issue**: 1642 · **开放 issue**: 126 · **提交数**: 2891
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 4 | 90 | 27 | 57 | 14 | 63 |
-| last60d | 2026-08-27 | 10 | 199 | 40 | 106 | 19 | 193 |
-| 90d | 2026-07-28 | 15 | 258 | 49 | 149 | 23 | 248 |
-| last180d | 2026-04-29 | 32 | 508 | 58 | 237 | 31 | 499 |
-| 360d | 2025-10-31 | 65 | 885 | 66 | 387 | 56 | 884 |
-| last720d | 2024-11-05 | 100 | 1304 | 70 | 714 | 80 | 1286 |
+| 30d | 2026-09-27 | 4 | 87 | 29 | 55 | 15 | 63 |
+| last60d | 2026-08-28 | 9 | 198 | 41 | 104 | 20 | 193 |
+| 90d | 2026-07-29 | 15 | 252 | 49 | 146 | 24 | 248 |
+| last180d | 2026-04-30 | 31 | 502 | 59 | 237 | 32 | 499 |
+| 360d | 2025-11-01 | 65 | 884 | 67 | 386 | 57 | 884 |
+| last720d | 2024-11-06 | 100 | 1304 | 71 | 714 | 81 | 1283 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ huggingface_hub 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261026.yml` · 2026-10-26T04:28:03Z._
+_数据快照: `data/card/261027.yml` · 2026-10-27T04:47:16Z._

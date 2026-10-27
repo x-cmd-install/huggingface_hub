@@ -26,13 +26,13 @@ Total: **108,105** lines of code across **310** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.5 / 10**
+Overall score: **6.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 9/27 approved changesets -- score normalized to 3
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (3/10) — Found 8/25 approved changesets -- score normalized to 3
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,005 · **Forks**: 1,306 · **Open issues**: 1,767 · **Contributors**: 421
+- **Stars**: 4,009 · **Forks**: 1,306 · **Open issues**: 1,768 · **Contributors**: 421
 
 ## Totals (cumulative)
 
-- **Releases**: 198 · **Merged PRs**: 2680 · **Open PRs**: 70 · **Closed issues**: 1642 · **Open issues**: 125 · **Commits**: 2891
+- **Releases**: 198 · **Merged PRs**: 2680 · **Open PRs**: 71 · **Closed issues**: 1642 · **Open issues**: 126 · **Commits**: 2891
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 4 | 90 | 27 | 57 | 14 | 63 |
-| last60d | 2026-08-27 | 10 | 199 | 40 | 106 | 19 | 193 |
-| 90d | 2026-07-28 | 15 | 258 | 49 | 149 | 23 | 248 |
-| last180d | 2026-04-29 | 32 | 508 | 58 | 237 | 31 | 499 |
-| 360d | 2025-10-31 | 65 | 885 | 66 | 387 | 56 | 884 |
-| last720d | 2024-11-05 | 100 | 1304 | 70 | 714 | 80 | 1286 |
+| 30d | 2026-09-27 | 4 | 87 | 29 | 55 | 15 | 63 |
+| last60d | 2026-08-28 | 9 | 198 | 41 | 104 | 20 | 193 |
+| 90d | 2026-07-29 | 15 | 252 | 49 | 146 | 24 | 248 |
+| last180d | 2026-04-30 | 31 | 502 | 59 | 237 | 32 | 499 |
+| 360d | 2025-11-01 | 65 | 884 | 67 | 386 | 57 | 884 |
+| last720d | 2024-11-06 | 100 | 1304 | 71 | 714 | 81 | 1283 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for huggingface_hub lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:28:02Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T04:47:15Z._
