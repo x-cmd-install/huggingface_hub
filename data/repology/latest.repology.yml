@@ -175,6 +175,18 @@
     - Apache-2.0
   categories:
     - sci-ml
+- repo: nix_unstable
+  srcname: huggingface-cli
+  visiblename: huggingface-hub
+  version: 1.30.0
+  origversion: null
+  status: outdated
+  summary: Download and publish models and other files on the huggingface.co hub
+  maintainers:
+    - gaetan@glepage.com
+    - osmanfbayram@gmail.com
+  licenses:
+    - Apache-2.0
 - repo: raspbian_testing
   subrepo: main
   srcname: huggingface-hub
