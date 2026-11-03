@@ -178,7 +178,7 @@
 - repo: nix_unstable
   srcname: huggingface-cli
   visiblename: huggingface-hub
-  version: 1.30.0
+  version: 2.4.0
   origversion: null
   status: outdated
   summary: Download and publish models and other files on the huggingface.co hub
@@ -187,21 +187,6 @@
     - osmanfbayram@gmail.com
   licenses:
     - Apache-2.0
-- repo: raspbian_testing
-  subrepo: main
-  srcname: huggingface-hub
-  binnames:
-    - python3-huggingface-hub
-  visiblename: huggingface-hub
-  version: 1.23.0
-  origversion: 1.23.0-1
-  status: outdated
-  maintainers:
-    - debian-ai@lists.debian.org
-    - kouhei.sendai@gmail.com
-    - lumin@debian.org
-  categories:
-    - misc
 - repo: t2
   srcname: huggingface_hub
   visiblename: huggingface_hub
@@ -259,3 +244,18 @@
     - lumin@debian.org
   categories:
     - universe/misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: huggingface-hub
+  binnames:
+    - python3-huggingface-hub
+  visiblename: huggingface-hub
+  version: 1.23.0
+  origversion: 1.23.0-1
+  status: outdated
+  maintainers:
+    - debian-ai@lists.debian.org
+    - kouhei.sendai@gmail.com
+    - lumin@debian.org
+  categories:
+    - misc
