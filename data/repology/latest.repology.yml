@@ -187,6 +187,21 @@
     - osmanfbayram@gmail.com
   licenses:
     - Apache-2.0
+- repo: raspbian_testing
+  subrepo: main
+  srcname: huggingface-hub
+  binnames:
+    - python3-huggingface-hub
+  visiblename: huggingface-hub
+  version: 1.23.0
+  origversion: 1.23.0-1
+  status: outdated
+  maintainers:
+    - debian-ai@lists.debian.org
+    - kouhei.sendai@gmail.com
+    - lumin@debian.org
+  categories:
+    - misc
 - repo: t2
   srcname: huggingface_hub
   visiblename: huggingface_hub
@@ -244,8 +259,8 @@
     - lumin@debian.org
   categories:
     - universe/misc
-- repo: raspbian_testing
-  subrepo: main
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
   srcname: huggingface-hub
   binnames:
     - python3-huggingface-hub
@@ -258,4 +273,4 @@
     - kouhei.sendai@gmail.com
     - lumin@debian.org
   categories:
-    - misc
+    - universe/misc
