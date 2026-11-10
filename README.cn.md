@@ -18,7 +18,7 @@ x install huggingface_hub
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 103,514 | 6,929 | 15,140 | 286 |
+| Python | 103,514 | 6,931 | 15,140 | 286 |
 | Yaml | 3,651 | 7 | 4 | 14 |
 | Sh | 476 | 37 | 70 | 1 |
 | PowerShell | 364 | 55 | 78 | 1 |
@@ -26,13 +26,13 @@ x install huggingface_hub
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.6 / 10**
+总评分: **7 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 8/25 approved changesets -- score normalized to 3
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
 
@@ -43,26 +43,26 @@ x install huggingface_hub
 ## 发布
 
 - **最新版本**: `v2.4.0` (2026-10-29)
-- **最近提交**: 2026-11-05
+- **最近提交**: 2026-11-09
 
 ## 流行度
 
-- **Star**: 4,035 · **Fork**: 1,323 · **开放 issue**: 1,779 · **贡献者**: 429
+- **Star**: 4,038 · **Fork**: 1,325 · **开放 issue**: 1,782 · **贡献者**: 429
 
 ## 累计统计
 
-- **发布数**: 199 · **已合并 PR**: 2706 · **开放 PR**: 42 · **已关闭 issue**: 1665 · **开放 issue**: 114 · **提交数**: 2917
+- **发布数**: 199 · **已合并 PR**: 2707 · **开放 PR**: 45 · **已关闭 issue**: 1666 · **开放 issue**: 116 · **提交数**: 2918
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 2 | 58 | 15 | 42 | 9 | 51 |
-| last60d | 2026-09-10 | 9 | 176 | 23 | 102 | 13 | 162 |
-| 90d | 2026-08-11 | 14 | 260 | 27 | 156 | 17 | 254 |
-| last180d | 2026-05-13 | 30 | 500 | 32 | 250 | 21 | 504 |
-| 360d | 2025-11-14 | 63 | 890 | 39 | 399 | 47 | 892 |
-| last720d | 2024-11-19 | 100 | 1323 | 42 | 732 | 69 | 1302 |
+| 30d | 2026-10-11 | 2 | 58 | 18 | 37 | 12 | 52 |
+| last60d | 2026-09-11 | 8 | 171 | 26 | 101 | 16 | 163 |
+| 90d | 2026-08-12 | 14 | 259 | 30 | 155 | 19 | 255 |
+| last180d | 2026-05-14 | 30 | 501 | 35 | 250 | 23 | 505 |
+| 360d | 2025-11-15 | 63 | 891 | 42 | 400 | 49 | 893 |
+| last720d | 2024-11-20 | 100 | 1324 | 45 | 733 | 71 | 1303 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ huggingface_hub 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261109.yml` · 2026-11-09T05:57:14Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T07:01:13Z._
