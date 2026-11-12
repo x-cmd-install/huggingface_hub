@@ -82,6 +82,21 @@
     - Apache-2.0
   categories:
     - sci-ml
+- repo: ubuntu_26_04
+  subrepo: resolute/universe
+  srcname: huggingface-hub
+  binnames:
+    - python3-huggingface-hub
+  visiblename: huggingface-hub
+  version: 1.2.2
+  origversion: 1.2.2-2
+  status: outdated
+  maintainers:
+    - debian-ai@lists.debian.org
+    - kouhei.sendai@gmail.com
+    - lumin@debian.org
+  categories:
+    - universe/misc
 - repo: gentoo
   srcname: sci-ml/huggingface_hub
   visiblename: sci-ml/huggingface_hub
@@ -227,21 +242,6 @@
   maintainers:
     - debian-ai@lists.debian.org
     - kouhei.sendai@gmail.com
-  categories:
-    - universe/misc
-- repo: ubuntu_26_04
-  subrepo: resolute/universe
-  srcname: huggingface-hub
-  binnames:
-    - python3-huggingface-hub
-  visiblename: huggingface-hub
-  version: 1.2.2
-  origversion: 1.2.2-2
-  status: outdated
-  maintainers:
-    - debian-ai@lists.debian.org
-    - kouhei.sendai@gmail.com
-    - lumin@debian.org
   categories:
     - universe/misc
 - repo: ubuntu_26_10
