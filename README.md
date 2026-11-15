@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,050 · **Forks**: 1,338 · **Open issues**: 1,792 · **Contributors**: 429
+- **Stars**: 4,053 · **Forks**: 1,339 · **Open issues**: 1,793 · **Contributors**: 429
 
 ## Totals (cumulative)
 
-- **Releases**: 199 · **Merged PRs**: 2709 · **Open PRs**: 66 · **Closed issues**: 1668 · **Open issues**: 124 · **Commits**: 2920
+- **Releases**: 199 · **Merged PRs**: 2709 · **Open PRs**: 67 · **Closed issues**: 1668 · **Open issues**: 125 · **Commits**: 2920
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 2 | 44 | 38 | 32 | 20 | 54 |
-| last60d | 2026-09-15 | 8 | 164 | 47 | 91 | 23 | 165 |
-| 90d | 2026-08-16 | 14 | 254 | 50 | 148 | 25 | 257 |
-| last180d | 2026-05-18 | 29 | 501 | 56 | 251 | 31 | 507 |
-| 360d | 2025-11-19 | 63 | 890 | 63 | 397 | 57 | 895 |
-| last720d | 2024-11-24 | 100 | 1323 | 66 | 728 | 79 | 1301 |
+| 30d | 2026-10-16 | 2 | 43 | 39 | 30 | 21 | 54 |
+| last60d | 2026-09-16 | 8 | 161 | 48 | 90 | 24 | 165 |
+| 90d | 2026-08-17 | 14 | 251 | 51 | 145 | 26 | 257 |
+| last180d | 2026-05-19 | 29 | 496 | 57 | 249 | 32 | 507 |
+| 360d | 2025-11-20 | 63 | 888 | 64 | 395 | 58 | 895 |
+| last720d | 2024-11-25 | 100 | 1321 | 67 | 728 | 80 | 1301 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for huggingface_hub lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T06:02:18Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T06:07:01Z._
