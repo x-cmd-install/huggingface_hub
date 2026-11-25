@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.4.0` (2026-10-29)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-24
 
 ## Popularity
 
-- **Stars**: 4,074 · **Forks**: 1,361 · **Open issues**: 1,814 · **Contributors**: 457
+- **Stars**: 4,074 · **Forks**: 1,362 · **Open issues**: 1,814 · **Contributors**: 458
 
 ## Totals (cumulative)
 
-- **Releases**: 199 · **Merged PRs**: 2753 · **Open PRs**: 46 · **Closed issues**: 1706 · **Open issues**: 108 · **Commits**: 2966
+- **Releases**: 199 · **Merged PRs**: 2754 · **Open PRs**: 50 · **Closed issues**: 1707 · **Open issues**: 107 · **Commits**: 2967
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 65 | 19 | 36 | 13 | 60 |
-| last60d | 2026-09-25 | 5 | 162 | 21 | 108 | 14 | 152 |
-| 90d | 2026-08-26 | 11 | 278 | 28 | 159 | 17 | 271 |
-| last180d | 2026-05-28 | 26 | 502 | 35 | 271 | 23 | 498 |
-| 360d | 2025-11-29 | 61 | 921 | 43 | 416 | 50 | 919 |
-| last720d | 2024-12-04 | 100 | 1358 | 46 | 753 | 71 | 1341 |
+| 30d | 2026-10-26 | 1 | 65 | 23 | 37 | 11 | 61 |
+| last60d | 2026-09-26 | 5 | 163 | 25 | 107 | 12 | 153 |
+| 90d | 2026-08-27 | 11 | 272 | 32 | 157 | 16 | 272 |
+| last180d | 2026-05-29 | 25 | 497 | 39 | 271 | 22 | 499 |
+| 360d | 2025-11-30 | 61 | 922 | 47 | 417 | 49 | 920 |
+| last720d | 2024-12-05 | 100 | 1357 | 50 | 752 | 70 | 1341 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for huggingface_hub lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:40:08Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:11:58Z._
