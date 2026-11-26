@@ -14,11 +14,11 @@ x install huggingface_hub
 
 ## Code insight
 
-Total: **108,572** lines of code across **303** files in the top 5 languages.
+Total: **108,604** lines of code across **303** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 103,970 | 6,970 | 15,212 | 286 |
+| Python | 104,002 | 6,975 | 15,217 | 286 |
 | Yaml | 3,651 | 7 | 4 | 14 |
 | Sh | 476 | 37 | 70 | 1 |
 | PowerShell | 364 | 55 | 78 | 1 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.4.0` (2026-10-29)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-25
 
 ## Popularity
 
-- **Stars**: 4,074 · **Forks**: 1,362 · **Open issues**: 1,814 · **Contributors**: 458
+- **Stars**: 4,078 · **Forks**: 1,363 · **Open issues**: 1,816 · **Contributors**: 459
 
 ## Totals (cumulative)
 
-- **Releases**: 199 · **Merged PRs**: 2754 · **Open PRs**: 50 · **Closed issues**: 1707 · **Open issues**: 107 · **Commits**: 2967
+- **Releases**: 199 · **Merged PRs**: 2759 · **Open PRs**: 51 · **Closed issues**: 1709 · **Open issues**: 107 · **Commits**: 2972
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 65 | 23 | 37 | 11 | 61 |
-| last60d | 2026-09-26 | 5 | 163 | 25 | 107 | 12 | 153 |
-| 90d | 2026-08-27 | 11 | 272 | 32 | 157 | 16 | 272 |
-| last180d | 2026-05-29 | 25 | 497 | 39 | 271 | 22 | 499 |
-| 360d | 2025-11-30 | 61 | 922 | 47 | 417 | 49 | 920 |
-| last720d | 2024-12-05 | 100 | 1357 | 50 | 752 | 70 | 1341 |
+| 30d | 2026-10-27 | 1 | 68 | 24 | 38 | 11 | 66 |
+| last60d | 2026-09-27 | 5 | 165 | 26 | 106 | 13 | 158 |
+| 90d | 2026-08-28 | 10 | 276 | 33 | 156 | 17 | 277 |
+| last180d | 2026-05-30 | 25 | 502 | 40 | 272 | 23 | 504 |
+| 360d | 2025-12-01 | 61 | 925 | 48 | 418 | 50 | 925 |
+| last720d | 2024-12-06 | 100 | 1360 | 51 | 754 | 70 | 1346 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for huggingface_hub lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:11:58Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:00:37Z._
